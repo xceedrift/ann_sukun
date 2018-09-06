@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="manual_lowokwaru">
+    <output-path>$PROJECT_DIR$/out/artifacts/manual_lowokwaru</output-path>
+    <root id="archive" name="javaGDAL02.jar">
+      <element id="module-output" name="javaGDAL02" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../gdalLib/gdal223/bin/gdal/java/gdal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libgdx/gdx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libgdx/gdx-natives.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libgdx/gdx-backend-lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libgdx/gdx-backend-lwjgl3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libgdx/gdx-backend-lwjgl-natives.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

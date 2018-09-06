@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="manual_lowokwaru" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5b7d362-a038-402e-b3ab-2f9af144b1e1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="D:\Workshop\blackProgrammer\javaGDAL01\exportToHTML" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GDALMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/GDALMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ANN_Training.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/abn/ANNProcess/ANN_Training.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="149" column="48" selection-start-line="149" selection-start-column="48" selection-end-line="149" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myGDX.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/abn/myGDX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="112" column="88" selection-start-line="112" selection-start-column="88" selection-end-line="112" selection-end-column="88" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainDesktopGDX.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/abn/mainDesktopGDX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenRaster.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/OpenRaster.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataPointYX.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/DataPointYX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ANN_Manager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/abn/ANNProcess/ANN_Manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckSample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/CheckSample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ANN_Set.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/abn/ANNProcess/ANN_Set.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputForANN.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/InputForANN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>checksample</find>
+      <find>list</find>
+      <find>geodata</find>
+      <find>filen</find>
+      <find>1000</find>
+      <find>siksa</find>
+      <find>counterv2</find>
+      <find>temporary</find>
+      <find>rasterfile</find>
+      <find>/4</find>
+      <find>inputforann</find>
+      <find>best</find>
+      <find>max</find>
+      <find>indexmax</find>
+      <find>origin</find>
+      <find>confidence</find>
+      <find>tanh</find>
+      <find>completed</find>
+      <find>final4class</find>
+      <find>pembanding</find>
+      <find>pemba</find>
+      <find>filename</find>
+      <find>full</find>
+      <find>mytag</find>
+      <find>data2015_counter</find>
+      <find>data2-2</find>
+      <find>momentum</find>
+      <find>2569</find>
+      <find>size</find>
+      <find>lowok</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial04/GDALProcess/TransitionMatrix.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial04/GDALProcess/DataProcessMain.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial04/ANN_Training.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial04/ANN_Manager.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/SingleDataPoint.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial04/GDALProcess/CheckSample.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/TransitionMatrix.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/MultiDataPoint.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/Neighborhood.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/CheckSample.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/NeighborhoodData.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/GabungkanVS.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/NHData.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/myGDX.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/BOmBA.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/Laku.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/Bomba.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/NHBase.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial04/GDALProcess/NeighborhoodBase.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/JoinVS.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/ANNProcess/ANN_Set.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/InputForANN.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/TransitionRaster.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/DataPointYX.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial06/test.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial06/GDALTestIO.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/OpenRaster.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/GDALMain.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/main.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trail07/main.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trail07/ANNProcess/ANN_Manager.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trail07/GDALProcess/InputForANN.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trail07/desktopGDX.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trial05/ANNProcess/ANN_Training.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trail07/GDALProcess/TransitionRaster.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trail07/mainDesktopGDX.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trail07/test.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trail07/myGDX.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trail07/ANNProcess/ANN_Training.java" />
+        <option value="$PROJECT_DIR$/src/com/abnelic/trail07/GDALProcess/JoinVS.java" />
+        <option value="$PROJECT_DIR$/src/com/abn/ann/test.java" />
+        <option value="$PROJECT_DIR$/src/com/abn/ann/GDALProcess/GDALMain.java" />
+        <option value="$PROJECT_DIR$/src/com/abn/ann/GDALProcess/JoinVS.java" />
+        <option value="$PROJECT_DIR$/src/com/abn/ann/myGDX.java" />
+        <option value="$PROJECT_DIR$/src/com/abn/ann/ANNProcess/ANN_Training.java" />
+        <option value="$PROJECT_DIR$/src/com/abn/ANNProcess/ANN_Manager.java" />
+        <option value="$PROJECT_DIR$/src/com/abn/GDALProcess/CheckSample.java" />
+        <option value="$PROJECT_DIR$/src/com/abn/GDALProcess/GDALMain.java" />
+        <option value="$PROJECT_DIR$/src/com/abn/mainDesktopGDX.java" />
+        <option value="$PROJECT_DIR$/src/com/abn/myGDX.java" />
+        <option value="$PROJECT_DIR$/src/com/abn/ANNProcess/ANN_Training.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="3" />
+    <option name="y" value="8" />
+    <option name="width" value="710" />
+    <option name="height" value="678" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaGDAL03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaGDAL03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaGDAL03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaGDAL03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaGDAL03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaGDAL03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="abn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaGDAL03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaGDAL03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="abn" type="462c0819:PsiDirectoryNode" />
+              <item name="ANNProcess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaGDAL03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaGDAL03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="abn" type="462c0819:PsiDirectoryNode" />
+              <item name="GDALProcess" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.abnelic.trail07" />
+      <recent name="com.abnelic.trial05.ANNProcess" />
+      <recent name="com.abnelic.trial04" />
+      <recent name="com.abnelic.trial03" />
+      <recent name="com.abnelic.trial03.GDALProcess" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workshop\blackProgrammer\javaGDAL01\assets" />
+      <recent name="D:\Workshop\blackProgrammer\javaGDAL01\src\com\abnelic\trail07" />
+      <recent name="D:\Workshop\blackProgrammer\javaGDAL01\src\com\abnelic\trail07\GDALProcess" />
+      <recent name="D:\Workshop\blackProgrammer\javaGDAL01\src\com\abnelic\trail07\ANNProcess" />
+      <recent name="D:\Workshop\blackProgrammer\javaGDAL01\src\com\abnelic\trial05\ANNProcess" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.mainDesktopGDX (2)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="GDALTestIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abnelic.trial06.GDALTestIO" />
+      <module name="javaGDAL02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abnelic.trial06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abnelic.trial05.main" />
+      <module name="javaGDAL02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abnelic.trial05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="mainDesktopGDX (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abn.ann.mainDesktopGDX" />
+      <module name="javaGDAL02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abn.ann.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="mainDesktopGDX (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abn.mainDesktopGDX" />
+      <module name="javaGDAL02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="mainDesktopGDX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abnelic.trail07.mainDesktopGDX" />
+      <module name="javaGDAL02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abnelic.trail07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.GDALTestIO" />
+      <item itemvalue="Application.mainDesktopGDX" />
+      <item itemvalue="Application.mainDesktopGDX (1)" />
+      <item itemvalue="Application.mainDesktopGDX (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mainDesktopGDX (2)" />
+        <item itemvalue="Application.mainDesktopGDX (1)" />
+        <item itemvalue="Application.mainDesktopGDX" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.GDALTestIO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5b7d362-a038-402e-b3ab-2f9af144b1e1" name="Default" comment="" />
+      <created>1527513943418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527513943418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.20497803" side_tool="true" visible="true" weight="0.24842767" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.79502195" weight="0.24842767" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22986823" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49926794" weight="0.39937106" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32861635" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.3660322" weight="0.3427673" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49633968" weight="0.32232705" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/abn/ANNProcess/ANN_Training.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4097">
+          <caret line="241" column="9" lean-forward="true" selection-start-line="241" selection-start-column="9" selection-end-line="241" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial04/GDALProcess/OpenRaster.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/NH.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/MultiDataPoint.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/SingleDataPoint.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial04/GDALProcess/TransitionMatrix.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial04/ANN_Set.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial04/MainANN.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/NHData.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial04/GDALProcess/DataPointYX.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial04/ANN_Manager.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial04/GDALProcess/DataProcessMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial04/GDALProcess/NeighborhoodBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial03/GDALProcess/DataProcessMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial03/ANN_Training.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/NHBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial06/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/JoinVS.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/ANNProcess/ANN_Set.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/InputForANN.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/TransitionRaster.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/CheckSample.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial06/GDALTestIO.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/DataPointYX.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/OpenRaster.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial04/ANN_Training.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/GDALProcess/GDALMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/desktopGDX.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/ANNProcess/ANN_Manager.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/trial05/ANNProcess/ANN_Training.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/myGDX.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abnelic/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abn/ann/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/TransitionRaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/SingleDataPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/NHData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/NHBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/NH.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/MultiDataPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/JoinVS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="130" column="67" selection-start-line="130" selection-start-column="67" selection-end-line="130" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/InputForANN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/DataPointYX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/OpenRaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/ANNProcess/ANN_Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/ANNProcess/ANN_Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/mainDesktopGDX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/myGDX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="112" column="88" selection-start-line="112" selection-start-column="88" selection-end-line="112" selection-end-column="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/GDALMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/GDALProcess/CheckSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abn/ANNProcess/ANN_Training.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="149" column="48" selection-start-line="149" selection-start-column="48" selection-end-line="149" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>manual_lowokwaru</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaGDAL02</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>libgdx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
